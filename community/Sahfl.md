@@ -1,8 +1,8 @@
 # Sarah Ferreira
 
-🖥 Sou estagiária em redes e estou dedicada a resolver e melhorar os desafios enfrentados no ambiente de suporte. 
+Sou estagiária em redes e estou empolgada em aprender mais a respeito dos desafios enfrentados no ambiente de suporte. 
 
-🎓 Atualmente, estou seguindo minha curiosidade pela tecnologia ao cursar Analise e Desenvolvimento de Sistemas. Além dos meus estudos acadêmicos, estou focada em compreender mais sobre as diversas possibilidades da T.I.
+🎓 Atualmente estou cursando Analise e Desenvolvimento de Sistemas. Além dos meus estudos acadêmicos, estou focada em compreender mais sobre as diversas possibilidades da T.I.
 
 🚀 Tenho o objetivo de me tornar Analista de Cibersegurança ou Analista de Dados e seguir incentivando outras pessoas a migrarem pra área.
 ## Conecte-se comigo
